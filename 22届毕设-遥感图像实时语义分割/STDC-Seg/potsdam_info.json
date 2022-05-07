@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Impervious surfaces",
+    "color": [
+      255,
+      255,
+      255
+    ],
+    "trainId": 0
+  },
+  {
+    "category": "Building",
+    "color": [
+      0,
+      0,
+      255
+    ],
+    "trainId": 1
+  },
+  {
+    "category": "Low vegetation",
+    "color": [
+      0,
+      255,
+      255
+    ],
+    "trainId": 2
+  },
+  {
+    "category": "Tree",
+    "color": [
+      0,
+      255,
+      0
+    ],
+    "trainId": 3
+  },
+  {
+    "category": "Car",
+    "color": [
+      255,
+      255,
+      0
+    ],
+    "trainId": 4
+  },
+  {
+    "category": "Clutter/bachground",
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "trainId": 5
+  }
+]
