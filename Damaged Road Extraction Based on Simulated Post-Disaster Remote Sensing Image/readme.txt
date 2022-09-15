@@ -8,8 +8,8 @@ Password: stdz
 Path:Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Image/checkpoints/ade20k/latest_net_Corr.pth
 
 File Name: latest_net_G.pth  
-Linkage: https://pan.baidu.com/s/1_cSbzNC8Qacyyaqe1sErmA   
-Password: 4j3w   
+Linkage: https://pan.baidu.com/s/1TxY4_NB356j_CTOcFhaVRA   
+Password: guol   
 Path:Damaged Road Extraction Based on Simulated Post-Disaster Remote Sensing Image/checkpoints/ade20k/latest_net_G.pth
 
 File Name: log02_dink34.th  
